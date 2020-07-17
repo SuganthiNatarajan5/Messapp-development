@@ -6,6 +6,7 @@ WSDL is XML based language which will be used to describe the services offered b
 To test WebService you can
 Create your own code. For instance use Axis2 API for Java
 Use WebService Test Automation tools like SoapUI
+use ankther
 Automation Tools like SoapUI will jumpstart your testing efforts, will require less coding effort compared to creating your own code using Axis2 API
 
 Webservice - Soap
