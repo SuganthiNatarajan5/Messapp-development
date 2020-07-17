@@ -1,0 +1,14 @@
+Software Applications communicate and exchange data with each other using a WebService
+SOAP and REST are 2 popular protocols to create a WebService
+SOAP supports XML based data exchange
+REST support XML, Json or exchange of data in simple URL.
+WSDL is XML based language which will be used to describe the services offered by a web service. SOAP is defined using WSDL.
+To test WebService you can
+Create your own code. For instance use Axis2 API for Java
+Use WebService Test Automation tools like SoapUI
+Automation Tools like SoapUI will jumpstart your testing efforts, will require less coding effort compared to creating your own code using Axis2 API
+
+Webservice - Soap
+Web API - REST
+
+As REST has become quite a popular style for building APIs nowadays, it has become equally important to automate REST API test cases along with UI test cases. So basically, these REST API testing involves testing of CRUD (Create-Read-Update-Delete) actions with methods POST, GET, PUT, and DELETE respectively.
