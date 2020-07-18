@@ -10,6 +10,8 @@ use ankther
 Automation Tools like SoapUI will jumpstart your testing efforts, will require less coding effort compared to creating your own code using Axis2 API
 
 Webservice - Soap
+
+s,msmsmmc
 Web API - REST
 
 As REST has become quite a popular style for building APIs nowadays, it has become equally important to automate REST API test cases along with UI test cases. So basically, these REST API testing involves testing of CRUD (Create-Read-Update-Delete) actions with methods POST, GET, PUT, and DELETE respectively.
